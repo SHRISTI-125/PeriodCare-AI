@@ -48,6 +48,9 @@ st.markdown(
         .nav-button:hover {
             background-color: #e63766;
         }
+        .sub-text {
+            color: #555;
+        }
     </style>
     """,
     unsafe_allow_html=True,
@@ -90,7 +93,7 @@ if st.session_state.page == "Home":
         </style>
     """, unsafe_allow_html=True)
 
-    st.markdown("---")  # Divider
+    st.markdown("---")  
 
     # Features Section
     st.subheader("Why to Choose PeriodCare AI?")
@@ -417,7 +420,7 @@ elif st.session_state.page == "Product Recommendation based on your Menstrual He
 
         st.info("🩺 Please consult a doctor for personalized advice. ")
     else:
-        st.warning("Please select at least one menstrual health if you don't go to home page.")
+        st.warning("Please select at least one Menstrual Health if you don't, go to Product Recommendation page.")
     st.markdown("---")
 
 
