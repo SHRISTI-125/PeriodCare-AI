@@ -1,0 +1,501 @@
+Age_group,Skin_Sensitivity,Flow_Level,Fragrance,Lifestyle,Pain_Level,Eco-Friendly,Cost,Product
+Middle-Aged,No,Medium,No,Athlete,Moderate,No,960,Period Underwear
+Senior,No,Heavy,Yes,Student,Moderate,No,918,Menstrual Cup
+Adult,No,Light,Yes,Student,Mild,No,340,Tampons
+Senior,Yes,Heavy,No,Athlete,Mild,No,347,Menstrual Cup
+Senior,No,Medium,Yes,Athlete,Severe,No,191,Menstrual Cup
+Young Adult,Yes,Light,Yes,Student,Severe,Yes,474,Pads
+Adult,Yes,Light,Yes,Working Professional,Mild,No,550,Cloth Pads
+Adult,Yes,Medium,No,Homemaker,Severe,No,542,Period Underwear
+Adult,Yes,Medium,Yes,Working Professional,Mild,No,485,Tampons
+Senior,No,Medium,No,Athlete,Moderate,Yes,852,Period Underwear
+Middle-Aged,No,Heavy,No,Working Professional,Moderate,Yes,827,Period Underwear
+Adult,Yes,Heavy,Yes,Student,Severe,No,577,Cloth Pads
+Senior,Yes,Light,Yes,Athlete,Mild,No,748,Period Underwear
+Young Adult,Yes,Medium,Yes,Homemaker,Mild,No,825,Period Underwear
+Middle-Aged,No,Light,No,Student,Severe,Yes,209,Menstrual Cup
+Young Adult,Yes,Light,Yes,Student,Mild,Yes,752,Cloth Pads
+Middle-Aged,Yes,Light,Yes,Homemaker,Moderate,No,414,Pads
+Senior,No,Light,Yes,Homemaker,Severe,Yes,686,Tampons
+Teen,No,Medium,Yes,Working Professional,Severe,No,333,Period Underwear
+Middle-Aged,Yes,Light,Yes,Athlete,Mild,Yes,714,Tampons
+Young Adult,No,Medium,No,Homemaker,Severe,Yes,333,Pads
+Senior,No,Medium,No,Homemaker,Mild,No,824,Tampons
+Middle-Aged,Yes,Heavy,Yes,Athlete,Mild,No,898,Pads
+Teen,No,Medium,Yes,Homemaker,Mild,No,837,Menstrual Cup
+Teen,Yes,Heavy,Yes,Homemaker,Mild,No,629,Period Underwear
+Adult,No,Medium,Yes,Working Professional,Mild,Yes,431,Pads
+Adult,Yes,Medium,No,Student,Severe,Yes,223,Tampons
+Young Adult,Yes,Medium,Yes,Student,Moderate,Yes,177,Period Underwear
+Middle-Aged,Yes,Heavy,No,Student,Moderate,No,625,Menstrual Cup
+Middle-Aged,No,Heavy,No,Student,Severe,Yes,958,Period Underwear
+Adult,Yes,Light,Yes,Homemaker,Severe,No,831,Pads
+Middle-Aged,No,Heavy,No,Athlete,Moderate,Yes,671,Menstrual Cup
+Middle-Aged,Yes,Heavy,No,Athlete,Moderate,No,358,Tampons
+Teen,Yes,Heavy,No,Working Professional,Moderate,No,856,Menstrual Cup
+Adult,No,Heavy,No,Working Professional,Moderate,Yes,355,Menstrual Cup
+Senior,Yes,Light,Yes,Homemaker,Moderate,No,954,Cloth Pads
+Adult,Yes,Heavy,Yes,Athlete,Mild,No,876,Menstrual Cup
+Senior,No,Medium,No,Athlete,Severe,Yes,775,Menstrual Cup
+Teen,Yes,Medium,Yes,Student,Mild,No,595,Period Underwear
+Young Adult,Yes,Heavy,Yes,Homemaker,Moderate,No,894,Tampons
+Middle-Aged,Yes,Heavy,Yes,Homemaker,Moderate,No,104,Period Underwear
+Teen,Yes,Medium,Yes,Student,Moderate,Yes,569,Period Underwear
+Middle-Aged,No,Medium,Yes,Homemaker,Mild,Yes,420,Pads
+Young Adult,No,Light,No,Homemaker,Mild,No,997,Period Underwear
+Young Adult,Yes,Medium,Yes,Working Professional,Moderate,Yes,862,Cloth Pads
+Teen,No,Medium,Yes,Athlete,Mild,No,265,Cloth Pads
+Young Adult,Yes,Heavy,Yes,Homemaker,Mild,No,509,Pads
+Senior,No,Medium,Yes,Working Professional,Moderate,No,184,Tampons
+Young Adult,Yes,Light,No,Athlete,Mild,No,382,Tampons
+Middle-Aged,Yes,Medium,No,Student,Severe,No,508,Period Underwear
+Middle-Aged,Yes,Heavy,No,Working Professional,Severe,Yes,579,Period Underwear
+Middle-Aged,Yes,Heavy,No,Working Professional,Severe,No,343,Period Underwear
+Middle-Aged,Yes,Medium,Yes,Athlete,Severe,Yes,433,Tampons
+Senior,Yes,Heavy,No,Student,Moderate,Yes,327,Menstrual Cup
+Adult,No,Light,Yes,Working Professional,Moderate,No,386,Cloth Pads
+Teen,Yes,Light,Yes,Homemaker,Moderate,No,602,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Homemaker,Severe,Yes,272,Menstrual Cup
+Young Adult,Yes,Medium,Yes,Homemaker,Severe,Yes,866,Tampons
+Middle-Aged,No,Medium,Yes,Student,Mild,Yes,825,Menstrual Cup
+Young Adult,No,Heavy,No,Working Professional,Mild,No,297,Pads
+Young Adult,No,Light,No,Homemaker,Severe,Yes,701,Period Underwear
+Middle-Aged,Yes,Light,No,Student,Severe,No,100,Pads
+Senior,Yes,Heavy,No,Homemaker,Severe,No,428,Cloth Pads
+Young Adult,No,Light,Yes,Athlete,Severe,No,514,Period Underwear
+Young Adult,Yes,Medium,No,Working Professional,Mild,Yes,958,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Working Professional,Severe,No,438,Cloth Pads
+Young Adult,Yes,Medium,No,Student,Mild,No,377,Period Underwear
+Young Adult,No,Light,Yes,Student,Severe,No,623,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Working Professional,Severe,No,878,Pads
+Middle-Aged,Yes,Heavy,No,Homemaker,Severe,No,400,Period Underwear
+Teen,No,Heavy,Yes,Homemaker,Mild,Yes,454,Menstrual Cup
+Senior,Yes,Light,Yes,Athlete,Mild,No,400,Pads
+Senior,No,Heavy,No,Homemaker,Moderate,No,327,Cloth Pads
+Young Adult,No,Heavy,Yes,Student,Severe,Yes,836,Cloth Pads
+Senior,Yes,Light,No,Student,Moderate,No,501,Cloth Pads
+Young Adult,Yes,Medium,No,Homemaker,Moderate,Yes,694,Cloth Pads
+Teen,Yes,Medium,No,Student,Mild,No,824,Tampons
+Middle-Aged,No,Medium,Yes,Working Professional,Mild,Yes,181,Period Underwear
+Middle-Aged,Yes,Light,Yes,Working Professional,Moderate,Yes,849,Period Underwear
+Middle-Aged,No,Heavy,Yes,Homemaker,Severe,No,890,Tampons
+Senior,No,Medium,No,Working Professional,Mild,No,369,Menstrual Cup
+Teen,Yes,Medium,Yes,Working Professional,Severe,No,122,Menstrual Cup
+Senior,Yes,Light,No,Athlete,Severe,Yes,346,Cloth Pads
+Senior,No,Medium,No,Athlete,Moderate,Yes,890,Pads
+Teen,No,Light,Yes,Working Professional,Moderate,Yes,264,Menstrual Cup
+Teen,Yes,Heavy,No,Homemaker,Moderate,No,885,Pads
+Teen,Yes,Light,Yes,Athlete,Moderate,Yes,649,Period Underwear
+Teen,Yes,Light,Yes,Student,Mild,Yes,515,Pads
+Middle-Aged,Yes,Light,Yes,Student,Mild,No,194,Period Underwear
+Adult,Yes,Light,Yes,Student,Moderate,Yes,330,Tampons
+Adult,No,Heavy,Yes,Homemaker,Mild,Yes,120,Tampons
+Teen,No,Heavy,No,Working Professional,Moderate,No,543,Cloth Pads
+Adult,No,Medium,No,Student,Severe,Yes,645,Menstrual Cup
+Adult,No,Heavy,No,Homemaker,Severe,No,260,Cloth Pads
+Teen,Yes,Heavy,Yes,Athlete,Severe,No,307,Period Underwear
+Adult,Yes,Medium,Yes,Working Professional,Moderate,No,334,Cloth Pads
+Senior,Yes,Heavy,Yes,Athlete,Severe,No,692,Pads
+Young Adult,No,Light,No,Homemaker,Mild,No,922,Period Underwear
+Young Adult,No,Light,Yes,Student,Severe,Yes,480,Tampons
+Teen,Yes,Medium,No,Student,Severe,Yes,170,Menstrual Cup
+Middle-Aged,Yes,Medium,No,Homemaker,Severe,No,756,Period Underwear
+Teen,No,Medium,Yes,Student,Mild,No,984,Period Underwear
+Middle-Aged,No,Light,Yes,Working Professional,Moderate,Yes,350,Pads
+Young Adult,Yes,Heavy,No,Homemaker,Mild,No,717,Menstrual Cup
+Teen,Yes,Light,Yes,Athlete,Moderate,No,976,Tampons
+Senior,No,Medium,No,Homemaker,Moderate,No,636,Period Underwear
+Adult,Yes,Heavy,Yes,Working Professional,Severe,Yes,447,Period Underwear
+Middle-Aged,Yes,Heavy,Yes,Working Professional,Moderate,Yes,725,Pads
+Adult,Yes,Light,No,Homemaker,Mild,No,317,Cloth Pads
+Adult,No,Medium,Yes,Homemaker,Mild,No,112,Tampons
+Teen,No,Light,No,Student,Moderate,Yes,606,Menstrual Cup
+Adult,No,Heavy,Yes,Working Professional,Severe,Yes,826,Period Underwear
+Senior,No,Light,No,Homemaker,Severe,No,488,Period Underwear
+Adult,No,Light,No,Homemaker,Mild,No,956,Tampons
+Teen,No,Medium,Yes,Working Professional,Severe,Yes,997,Cloth Pads
+Senior,No,Medium,No,Homemaker,Moderate,Yes,520,Period Underwear
+Young Adult,Yes,Heavy,Yes,Student,Moderate,Yes,154,Tampons
+Adult,Yes,Light,Yes,Working Professional,Mild,No,669,Pads
+Teen,Yes,Light,Yes,Student,Moderate,Yes,973,Cloth Pads
+Young Adult,Yes,Light,No,Student,Mild,No,602,Menstrual Cup
+Young Adult,Yes,Heavy,No,Student,Moderate,Yes,574,Period Underwear
+Middle-Aged,Yes,Heavy,Yes,Student,Mild,Yes,797,Tampons
+Senior,Yes,Medium,Yes,Working Professional,Severe,Yes,131,Pads
+Adult,No,Medium,No,Student,Moderate,Yes,987,Menstrual Cup
+Teen,No,Medium,Yes,Student,Moderate,No,596,Tampons
+Middle-Aged,Yes,Light,Yes,Homemaker,Mild,No,698,Tampons
+Senior,Yes,Light,No,Working Professional,Mild,Yes,545,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Working Professional,Moderate,No,580,Pads
+Senior,Yes,Light,No,Athlete,Mild,Yes,388,Pads
+Senior,Yes,Medium,Yes,Working Professional,Moderate,Yes,274,Cloth Pads
+Adult,No,Heavy,No,Working Professional,Severe,Yes,145,Period Underwear
+Senior,Yes,Medium,Yes,Athlete,Mild,Yes,163,Menstrual Cup
+Middle-Aged,No,Heavy,Yes,Working Professional,Moderate,No,734,Menstrual Cup
+Senior,Yes,Light,No,Working Professional,Severe,Yes,761,Menstrual Cup
+Adult,No,Medium,Yes,Working Professional,Severe,Yes,522,Pads
+Adult,No,Light,No,Working Professional,Moderate,No,486,Period Underwear
+Middle-Aged,No,Heavy,Yes,Athlete,Mild,Yes,344,Cloth Pads
+Young Adult,Yes,Heavy,No,Working Professional,Moderate,Yes,196,Tampons
+Young Adult,No,Heavy,No,Working Professional,Severe,Yes,124,Tampons
+Senior,Yes,Light,No,Athlete,Moderate,No,214,Menstrual Cup
+Teen,Yes,Light,No,Homemaker,Mild,Yes,769,Period Underwear
+Senior,Yes,Light,Yes,Student,Severe,No,931,Pads
+Middle-Aged,Yes,Light,Yes,Homemaker,Moderate,Yes,457,Period Underwear
+Middle-Aged,No,Heavy,No,Athlete,Mild,Yes,659,Period Underwear
+Middle-Aged,No,Heavy,No,Student,Severe,No,360,Pads
+Middle-Aged,Yes,Medium,No,Athlete,Mild,Yes,798,Menstrual Cup
+Middle-Aged,Yes,Medium,Yes,Athlete,Severe,Yes,370,Period Underwear
+Adult,No,Light,Yes,Working Professional,Moderate,No,816,Tampons
+Young Adult,Yes,Heavy,Yes,Student,Mild,No,560,Pads
+Middle-Aged,No,Heavy,Yes,Working Professional,Severe,No,452,Cloth Pads
+Teen,Yes,Heavy,No,Student,Mild,No,673,Menstrual Cup
+Teen,Yes,Medium,No,Athlete,Mild,No,311,Pads
+Teen,No,Medium,No,Athlete,Moderate,Yes,908,Cloth Pads
+Teen,Yes,Heavy,Yes,Homemaker,Mild,No,160,Cloth Pads
+Adult,No,Heavy,Yes,Student,Severe,Yes,231,Period Underwear
+Teen,Yes,Heavy,Yes,Working Professional,Severe,Yes,367,Period Underwear
+Middle-Aged,Yes,Medium,No,Homemaker,Severe,Yes,369,Period Underwear
+Senior,Yes,Heavy,No,Homemaker,Severe,No,277,Pads
+Teen,No,Heavy,Yes,Homemaker,Moderate,No,117,Pads
+Adult,Yes,Light,No,Working Professional,Mild,Yes,777,Menstrual Cup
+Adult,Yes,Light,Yes,Homemaker,Moderate,No,166,Period Underwear
+Teen,Yes,Medium,Yes,Working Professional,Mild,No,644,Cloth Pads
+Senior,Yes,Heavy,No,Homemaker,Mild,No,291,Tampons
+Teen,No,Heavy,Yes,Working Professional,Mild,No,736,Menstrual Cup
+Adult,No,Light,No,Athlete,Moderate,Yes,109,Pads
+Young Adult,Yes,Medium,Yes,Athlete,Mild,Yes,128,Menstrual Cup
+Middle-Aged,No,Light,No,Athlete,Moderate,No,405,Menstrual Cup
+Adult,Yes,Light,No,Athlete,Severe,Yes,974,Menstrual Cup
+Teen,Yes,Light,No,Athlete,Severe,No,705,Menstrual Cup
+Middle-Aged,Yes,Light,Yes,Homemaker,Mild,No,382,Tampons
+Teen,No,Heavy,Yes,Homemaker,Moderate,Yes,896,Period Underwear
+Teen,No,Heavy,No,Homemaker,Severe,Yes,914,Cloth Pads
+Young Adult,No,Light,No,Working Professional,Moderate,Yes,561,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Working Professional,Moderate,No,148,Menstrual Cup
+Middle-Aged,No,Medium,Yes,Working Professional,Mild,Yes,567,Menstrual Cup
+Young Adult,No,Medium,Yes,Working Professional,Severe,No,898,Period Underwear
+Adult,No,Medium,No,Athlete,Mild,Yes,357,Pads
+Teen,No,Light,Yes,Athlete,Mild,Yes,617,Pads
+Senior,No,Heavy,Yes,Athlete,Severe,No,239,Tampons
+Teen,Yes,Medium,No,Student,Severe,No,914,Pads
+Teen,No,Light,Yes,Homemaker,Moderate,No,219,Menstrual Cup
+Adult,No,Medium,Yes,Working Professional,Severe,No,872,Menstrual Cup
+Teen,No,Medium,Yes,Working Professional,Moderate,No,405,Menstrual Cup
+Young Adult,No,Light,No,Athlete,Moderate,No,382,Tampons
+Young Adult,No,Heavy,No,Working Professional,Moderate,No,968,Menstrual Cup
+Middle-Aged,No,Heavy,No,Working Professional,Severe,No,496,Pads
+Senior,No,Light,No,Homemaker,Mild,Yes,350,Period Underwear
+Teen,No,Heavy,No,Athlete,Moderate,No,918,Period Underwear
+Teen,No,Light,No,Homemaker,Mild,No,648,Cloth Pads
+Adult,No,Light,No,Student,Mild,Yes,808,Pads
+Young Adult,No,Light,Yes,Student,Severe,No,547,Menstrual Cup
+Senior,Yes,Heavy,Yes,Student,Mild,Yes,432,Period Underwear
+Middle-Aged,Yes,Light,No,Athlete,Mild,Yes,519,Pads
+Young Adult,No,Medium,Yes,Working Professional,Severe,No,538,Period Underwear
+Middle-Aged,No,Heavy,Yes,Athlete,Moderate,Yes,194,Menstrual Cup
+Adult,Yes,Heavy,No,Athlete,Mild,No,997,Period Underwear
+Adult,No,Heavy,Yes,Working Professional,Severe,Yes,486,Cloth Pads
+Teen,Yes,Heavy,Yes,Homemaker,Mild,Yes,649,Cloth Pads
+Senior,Yes,Medium,Yes,Student,Mild,Yes,498,Period Underwear
+Middle-Aged,Yes,Heavy,Yes,Homemaker,Moderate,No,385,Pads
+Young Adult,Yes,Heavy,Yes,Student,Mild,No,292,Pads
+Adult,Yes,Light,No,Athlete,Severe,Yes,590,Pads
+Teen,No,Heavy,No,Student,Mild,Yes,490,Period Underwear
+Teen,Yes,Medium,No,Athlete,Moderate,No,843,Pads
+Middle-Aged,No,Medium,Yes,Homemaker,Moderate,No,950,Menstrual Cup
+Adult,No,Medium,No,Athlete,Severe,Yes,434,Cloth Pads
+Senior,Yes,Medium,Yes,Homemaker,Moderate,Yes,540,Menstrual Cup
+Adult,Yes,Heavy,Yes,Working Professional,Mild,No,703,Pads
+Middle-Aged,No,Heavy,Yes,Working Professional,Moderate,No,459,Menstrual Cup
+Middle-Aged,Yes,Medium,Yes,Working Professional,Severe,No,231,Pads
+Adult,Yes,Medium,No,Athlete,Moderate,No,131,Period Underwear
+Middle-Aged,No,Heavy,No,Working Professional,Moderate,No,593,Menstrual Cup
+Adult,No,Medium,Yes,Student,Moderate,Yes,265,Period Underwear
+Young Adult,Yes,Light,No,Homemaker,Severe,No,652,Period Underwear
+Adult,No,Medium,Yes,Homemaker,Moderate,Yes,114,Tampons
+Adult,Yes,Medium,No,Student,Moderate,No,877,Pads
+Middle-Aged,Yes,Light,No,Athlete,Mild,Yes,192,Cloth Pads
+Middle-Aged,Yes,Light,Yes,Athlete,Severe,No,670,Pads
+Teen,No,Heavy,No,Homemaker,Moderate,No,515,Cloth Pads
+Teen,No,Heavy,Yes,Working Professional,Severe,Yes,342,Pads
+Young Adult,No,Light,No,Athlete,Moderate,Yes,255,Period Underwear
+Teen,No,Light,Yes,Athlete,Moderate,No,823,Menstrual Cup
+Adult,No,Heavy,Yes,Student,Moderate,No,639,Menstrual Cup
+Middle-Aged,Yes,Medium,No,Student,Mild,No,571,Tampons
+Teen,Yes,Light,No,Working Professional,Mild,No,550,Cloth Pads
+Teen,Yes,Heavy,Yes,Athlete,Mild,No,655,Cloth Pads
+Young Adult,Yes,Medium,No,Athlete,Severe,Yes,111,Cloth Pads
+Young Adult,No,Light,No,Student,Severe,Yes,432,Period Underwear
+Adult,Yes,Medium,Yes,Athlete,Mild,No,741,Cloth Pads
+Middle-Aged,No,Heavy,Yes,Homemaker,Severe,Yes,546,Menstrual Cup
+Young Adult,Yes,Light,No,Student,Moderate,Yes,428,Period Underwear
+Teen,No,Medium,Yes,Working Professional,Moderate,Yes,210,Pads
+Middle-Aged,No,Light,Yes,Student,Moderate,No,851,Cloth Pads
+Middle-Aged,Yes,Medium,Yes,Athlete,Mild,Yes,408,Cloth Pads
+Teen,Yes,Heavy,No,Working Professional,Severe,No,657,Pads
+Young Adult,Yes,Heavy,No,Student,Mild,Yes,921,Cloth Pads
+Teen,Yes,Light,Yes,Homemaker,Severe,No,558,Pads
+Middle-Aged,No,Medium,No,Homemaker,Moderate,Yes,385,Period Underwear
+Senior,Yes,Light,Yes,Student,Mild,No,533,Menstrual Cup
+Senior,Yes,Light,No,Homemaker,Severe,No,632,Pads
+Adult,No,Medium,Yes,Homemaker,Severe,Yes,789,Tampons
+Teen,Yes,Medium,Yes,Homemaker,Moderate,No,595,Pads
+Teen,Yes,Medium,No,Working Professional,Mild,No,227,Cloth Pads
+Adult,Yes,Heavy,Yes,Homemaker,Mild,No,115,Period Underwear
+Adult,Yes,Light,No,Homemaker,Mild,No,833,Period Underwear
+Adult,Yes,Light,No,Homemaker,Moderate,No,723,Pads
+Middle-Aged,No,Heavy,Yes,Working Professional,Mild,No,694,Menstrual Cup
+Teen,Yes,Medium,Yes,Student,Moderate,No,819,Tampons
+Middle-Aged,Yes,Heavy,No,Athlete,Moderate,No,483,Period Underwear
+Adult,Yes,Heavy,Yes,Homemaker,Moderate,Yes,159,Cloth Pads
+Teen,Yes,Heavy,Yes,Student,Severe,Yes,955,Cloth Pads
+Middle-Aged,Yes,Light,Yes,Homemaker,Mild,No,536,Menstrual Cup
+Middle-Aged,No,Heavy,Yes,Working Professional,Mild,No,101,Period Underwear
+Adult,Yes,Light,Yes,Student,Moderate,Yes,181,Pads
+Teen,No,Light,No,Working Professional,Moderate,Yes,286,Cloth Pads
+Adult,No,Light,No,Homemaker,Mild,Yes,504,Menstrual Cup
+Teen,Yes,Medium,Yes,Homemaker,Moderate,No,779,Period Underwear
+Senior,Yes,Light,Yes,Working Professional,Mild,Yes,569,Period Underwear
+Young Adult,Yes,Light,Yes,Athlete,Severe,No,537,Period Underwear
+Young Adult,Yes,Medium,No,Working Professional,Moderate,No,777,Period Underwear
+Young Adult,No,Light,Yes,Homemaker,Mild,Yes,800,Period Underwear
+Adult,Yes,Heavy,No,Working Professional,Moderate,No,957,Cloth Pads
+Senior,Yes,Heavy,No,Athlete,Mild,No,968,Menstrual Cup
+Teen,Yes,Light,No,Working Professional,Mild,No,197,Period Underwear
+Middle-Aged,Yes,Medium,Yes,Athlete,Moderate,No,988,Tampons
+Teen,Yes,Heavy,No,Athlete,Severe,Yes,854,Tampons
+Middle-Aged,Yes,Medium,Yes,Working Professional,Mild,Yes,436,Menstrual Cup
+Teen,No,Medium,No,Working Professional,Mild,No,627,Pads
+Senior,No,Heavy,Yes,Student,Mild,No,327,Pads
+Middle-Aged,Yes,Medium,No,Homemaker,Severe,Yes,642,Pads
+Adult,Yes,Heavy,Yes,Athlete,Severe,No,736,Tampons
+Teen,Yes,Medium,No,Student,Moderate,Yes,120,Pads
+Teen,No,Heavy,Yes,Working Professional,Severe,No,266,Cloth Pads
+Middle-Aged,Yes,Light,Yes,Homemaker,Moderate,No,646,Period Underwear
+Adult,No,Heavy,Yes,Student,Moderate,Yes,434,Tampons
+Adult,Yes,Heavy,Yes,Athlete,Severe,Yes,797,Menstrual Cup
+Senior,Yes,Heavy,No,Student,Moderate,Yes,396,Menstrual Cup
+Adult,Yes,Heavy,No,Athlete,Severe,Yes,328,Period Underwear
+Adult,Yes,Medium,Yes,Working Professional,Moderate,No,343,Tampons
+Adult,No,Light,No,Homemaker,Severe,Yes,206,Pads
+Young Adult,No,Heavy,Yes,Homemaker,Severe,No,205,Pads
+Senior,Yes,Medium,Yes,Homemaker,Moderate,Yes,481,Cloth Pads
+Teen,Yes,Light,No,Working Professional,Mild,Yes,757,Cloth Pads
+Middle-Aged,No,Light,Yes,Athlete,Moderate,No,417,Pads
+Teen,No,Light,Yes,Working Professional,Severe,Yes,967,Menstrual Cup
+Senior,No,Light,No,Homemaker,Mild,Yes,466,Menstrual Cup
+Middle-Aged,No,Heavy,Yes,Working Professional,Moderate,Yes,403,Cloth Pads
+Senior,Yes,Heavy,Yes,Working Professional,Moderate,Yes,950,Period Underwear
+Adult,No,Medium,Yes,Working Professional,Moderate,No,169,Pads
+Middle-Aged,Yes,Medium,Yes,Athlete,Mild,No,171,Cloth Pads
+Adult,No,Medium,No,Student,Severe,Yes,223,Cloth Pads
+Teen,No,Light,No,Student,Moderate,Yes,798,Pads
+Teen,No,Light,No,Working Professional,Moderate,Yes,235,Pads
+Middle-Aged,No,Heavy,Yes,Student,Moderate,No,438,Menstrual Cup
+Middle-Aged,No,Light,Yes,Student,Moderate,No,918,Period Underwear
+Senior,Yes,Light,No,Working Professional,Moderate,No,247,Period Underwear
+Senior,Yes,Light,Yes,Working Professional,Severe,No,570,Pads
+Adult,No,Medium,Yes,Homemaker,Severe,Yes,631,Tampons
+Middle-Aged,No,Medium,Yes,Student,Moderate,Yes,154,Cloth Pads
+Teen,Yes,Heavy,Yes,Athlete,Mild,Yes,262,Cloth Pads
+Senior,No,Light,No,Working Professional,Severe,No,318,Pads
+Senior,No,Light,No,Homemaker,Mild,Yes,322,Tampons
+Teen,Yes,Heavy,No,Athlete,Severe,No,117,Menstrual Cup
+Senior,No,Light,Yes,Student,Moderate,No,487,Pads
+Adult,No,Light,No,Homemaker,Severe,Yes,632,Pads
+Middle-Aged,Yes,Medium,No,Working Professional,Moderate,Yes,858,Cloth Pads
+Teen,Yes,Heavy,Yes,Athlete,Severe,Yes,329,Pads
+Middle-Aged,Yes,Heavy,Yes,Working Professional,Moderate,No,851,Pads
+Senior,No,Heavy,No,Student,Moderate,No,827,Pads
+Senior,Yes,Heavy,No,Athlete,Moderate,Yes,851,Cloth Pads
+Teen,Yes,Medium,No,Student,Moderate,Yes,359,Menstrual Cup
+Adult,Yes,Medium,No,Student,Mild,No,937,Menstrual Cup
+Young Adult,Yes,Light,Yes,Homemaker,Moderate,Yes,803,Pads
+Teen,Yes,Light,No,Working Professional,Mild,No,986,Cloth Pads
+Young Adult,Yes,Light,No,Athlete,Mild,No,231,Menstrual Cup
+Young Adult,No,Light,Yes,Student,Moderate,Yes,782,Menstrual Cup
+Adult,No,Medium,No,Student,Mild,Yes,767,Menstrual Cup
+Young Adult,Yes,Heavy,Yes,Athlete,Severe,Yes,184,Cloth Pads
+Young Adult,Yes,Medium,Yes,Student,Moderate,Yes,431,Cloth Pads
+Adult,Yes,Light,Yes,Homemaker,Mild,No,988,Pads
+Young Adult,No,Medium,No,Homemaker,Moderate,No,952,Period Underwear
+Young Adult,No,Heavy,No,Homemaker,Moderate,No,162,Menstrual Cup
+Young Adult,No,Heavy,Yes,Homemaker,Moderate,Yes,812,Period Underwear
+Teen,No,Medium,No,Student,Mild,No,234,Cloth Pads
+Teen,No,Medium,No,Athlete,Severe,Yes,639,Cloth Pads
+Teen,No,Medium,Yes,Athlete,Severe,Yes,691,Cloth Pads
+Adult,No,Light,Yes,Athlete,Mild,Yes,591,Period Underwear
+Senior,No,Medium,No,Athlete,Moderate,Yes,698,Cloth Pads
+Young Adult,No,Medium,Yes,Working Professional,Mild,Yes,786,Pads
+Young Adult,Yes,Medium,No,Athlete,Mild,Yes,512,Cloth Pads
+Adult,Yes,Heavy,No,Working Professional,Mild,No,601,Tampons
+Young Adult,Yes,Heavy,No,Working Professional,Moderate,Yes,757,Period Underwear
+Teen,Yes,Light,No,Homemaker,Mild,No,893,Tampons
+Senior,No,Light,Yes,Working Professional,Moderate,No,375,Cloth Pads
+Middle-Aged,No,Heavy,Yes,Student,Mild,Yes,750,Pads
+Young Adult,Yes,Heavy,Yes,Working Professional,Severe,Yes,946,Menstrual Cup
+Teen,No,Heavy,Yes,Homemaker,Mild,Yes,438,Cloth Pads
+Middle-Aged,Yes,Medium,No,Working Professional,Mild,No,966,Pads
+Senior,No,Medium,No,Student,Severe,Yes,438,Period Underwear
+Middle-Aged,Yes,Heavy,Yes,Student,Moderate,No,767,Tampons
+Teen,No,Medium,No,Student,Moderate,Yes,281,Tampons
+Middle-Aged,No,Medium,No,Homemaker,Mild,Yes,722,Tampons
+Adult,Yes,Light,No,Homemaker,Severe,No,157,Period Underwear
+Middle-Aged,No,Heavy,Yes,Athlete,Moderate,No,803,Pads
+Young Adult,Yes,Heavy,Yes,Homemaker,Mild,Yes,932,Period Underwear
+Young Adult,Yes,Medium,Yes,Student,Severe,No,832,Tampons
+Adult,Yes,Heavy,No,Student,Moderate,No,199,Cloth Pads
+Teen,Yes,Light,Yes,Homemaker,Moderate,No,112,Menstrual Cup
+Young Adult,No,Light,Yes,Working Professional,Severe,No,475,Period Underwear
+Senior,No,Light,Yes,Homemaker,Severe,No,249,Period Underwear
+Young Adult,No,Heavy,Yes,Homemaker,Severe,Yes,888,Pads
+Young Adult,Yes,Heavy,Yes,Student,Severe,Yes,801,Pads
+Teen,No,Heavy,Yes,Athlete,Mild,No,630,Period Underwear
+Middle-Aged,Yes,Heavy,No,Student,Severe,Yes,784,Tampons
+Young Adult,No,Heavy,No,Athlete,Moderate,Yes,695,Menstrual Cup
+Adult,No,Light,Yes,Student,Moderate,No,649,Pads
+Middle-Aged,No,Medium,Yes,Homemaker,Mild,Yes,302,Tampons
+Senior,Yes,Light,No,Student,Moderate,No,351,Cloth Pads
+Teen,No,Heavy,No,Student,Moderate,No,736,Pads
+Senior,No,Light,Yes,Student,Severe,Yes,176,Tampons
+Middle-Aged,Yes,Heavy,Yes,Homemaker,Moderate,No,612,Tampons
+Middle-Aged,No,Heavy,Yes,Homemaker,Mild,No,727,Menstrual Cup
+Middle-Aged,Yes,Light,Yes,Homemaker,Severe,No,317,Menstrual Cup
+Senior,No,Heavy,No,Homemaker,Severe,No,447,Cloth Pads
+Middle-Aged,Yes,Medium,Yes,Athlete,Mild,No,238,Tampons
+Senior,Yes,Heavy,Yes,Athlete,Severe,Yes,641,Tampons
+Middle-Aged,No,Medium,Yes,Working Professional,Severe,Yes,249,Menstrual Cup
+Adult,Yes,Medium,Yes,Homemaker,Mild,No,945,Pads
+Middle-Aged,Yes,Heavy,No,Athlete,Severe,No,300,Pads
+Senior,Yes,Light,No,Student,Mild,Yes,285,Period Underwear
+Young Adult,Yes,Medium,No,Homemaker,Mild,No,521,Menstrual Cup
+Middle-Aged,Yes,Light,Yes,Working Professional,Moderate,Yes,808,Period Underwear
+Young Adult,Yes,Medium,Yes,Working Professional,Moderate,No,416,Menstrual Cup
+Adult,No,Heavy,No,Working Professional,Severe,No,587,Cloth Pads
+Teen,Yes,Heavy,Yes,Student,Severe,No,124,Tampons
+Adult,Yes,Medium,Yes,Athlete,Mild,No,841,Cloth Pads
+Middle-Aged,No,Heavy,No,Student,Severe,No,206,Menstrual Cup
+Young Adult,No,Medium,No,Homemaker,Mild,No,619,Tampons
+Young Adult,No,Heavy,No,Working Professional,Mild,No,723,Pads
+Senior,No,Light,No,Student,Severe,Yes,744,Pads
+Young Adult,No,Heavy,Yes,Student,Mild,Yes,796,Period Underwear
+Senior,No,Light,Yes,Athlete,Moderate,Yes,664,Menstrual Cup
+Teen,No,Heavy,No,Athlete,Severe,No,204,Menstrual Cup
+Middle-Aged,Yes,Light,Yes,Working Professional,Moderate,No,867,Pads
+Senior,Yes,Heavy,No,Student,Severe,No,155,Cloth Pads
+Teen,No,Light,No,Student,Mild,No,439,Tampons
+Young Adult,Yes,Medium,Yes,Athlete,Severe,No,641,Cloth Pads
+Young Adult,Yes,Medium,No,Student,Moderate,No,798,Cloth Pads
+Teen,Yes,Light,Yes,Student,Mild,No,307,Pads
+Young Adult,No,Heavy,Yes,Student,Severe,Yes,252,Pads
+Teen,No,Light,Yes,Athlete,Severe,No,802,Pads
+Senior,Yes,Heavy,Yes,Working Professional,Severe,Yes,733,Period Underwear
+Senior,No,Medium,No,Homemaker,Moderate,Yes,305,Cloth Pads
+Teen,Yes,Heavy,Yes,Working Professional,Moderate,No,481,Menstrual Cup
+Senior,Yes,Medium,No,Homemaker,Severe,No,798,Tampons
+Senior,Yes,Heavy,No,Student,Mild,Yes,134,Period Underwear
+Senior,Yes,Heavy,No,Working Professional,Mild,Yes,285,Menstrual Cup
+Adult,No,Heavy,No,Homemaker,Moderate,No,117,Cloth Pads
+Middle-Aged,No,Light,Yes,Athlete,Mild,No,143,Pads
+Young Adult,No,Light,Yes,Athlete,Moderate,Yes,968,Cloth Pads
+Adult,Yes,Medium,No,Working Professional,Severe,No,610,Tampons
+Senior,No,Medium,No,Working Professional,Moderate,No,707,Period Underwear
+Teen,Yes,Light,Yes,Student,Moderate,No,140,Period Underwear
+Senior,No,Medium,No,Working Professional,Severe,Yes,779,Tampons
+Middle-Aged,Yes,Light,Yes,Student,Mild,Yes,313,Menstrual Cup
+Senior,Yes,Heavy,No,Student,Moderate,Yes,639,Menstrual Cup
+Teen,Yes,Medium,Yes,Athlete,Moderate,No,148,Period Underwear
+Middle-Aged,No,Medium,No,Athlete,Severe,No,495,Period Underwear
+Senior,No,Light,No,Homemaker,Mild,Yes,299,Pads
+Middle-Aged,No,Medium,Yes,Athlete,Moderate,Yes,602,Menstrual Cup
+Young Adult,No,Medium,No,Athlete,Severe,Yes,471,Tampons
+Young Adult,Yes,Heavy,No,Working Professional,Moderate,No,385,Menstrual Cup
+Senior,No,Medium,Yes,Athlete,Severe,Yes,136,Pads
+Middle-Aged,No,Heavy,No,Homemaker,Mild,Yes,746,Period Underwear
+Teen,Yes,Light,Yes,Working Professional,Mild,No,536,Period Underwear
+Senior,Yes,Medium,Yes,Homemaker,Mild,No,353,Pads
+Young Adult,Yes,Heavy,No,Athlete,Mild,No,396,Tampons
+Young Adult,No,Light,No,Homemaker,Moderate,Yes,540,Period Underwear
+Senior,Yes,Medium,No,Working Professional,Moderate,No,419,Cloth Pads
+Middle-Aged,Yes,Light,No,Student,Mild,No,763,Period Underwear
+Young Adult,Yes,Medium,No,Homemaker,Mild,Yes,649,Cloth Pads
+Middle-Aged,No,Light,No,Homemaker,Mild,No,967,Pads
+Young Adult,Yes,Light,No,Working Professional,Moderate,Yes,358,Pads
+Young Adult,No,Heavy,Yes,Working Professional,Mild,Yes,211,Period Underwear
+Adult,No,Light,No,Homemaker,Mild,No,524,Menstrual Cup
+Young Adult,Yes,Medium,Yes,Athlete,Mild,No,706,Cloth Pads
+Teen,Yes,Medium,No,Homemaker,Severe,No,196,Tampons
+Senior,No,Heavy,No,Working Professional,Mild,No,637,Period Underwear
+Senior,Yes,Medium,Yes,Student,Severe,No,196,Tampons
+Middle-Aged,Yes,Medium,No,Student,Severe,No,198,Period Underwear
+Young Adult,No,Medium,No,Athlete,Mild,Yes,354,Menstrual Cup
+Teen,No,Light,Yes,Homemaker,Severe,Yes,427,Menstrual Cup
+Middle-Aged,Yes,Light,No,Student,Mild,No,633,Menstrual Cup
+Adult,No,Medium,No,Homemaker,Moderate,Yes,459,Menstrual Cup
+Middle-Aged,Yes,Heavy,No,Working Professional,Moderate,No,624,Pads
+Middle-Aged,Yes,Light,Yes,Student,Moderate,Yes,200,Pads
+Young Adult,Yes,Heavy,No,Athlete,Moderate,Yes,762,Cloth Pads
+Adult,No,Medium,No,Working Professional,Severe,Yes,789,Tampons
+Middle-Aged,Yes,Medium,No,Athlete,Mild,No,846,Period Underwear
+Teen,Yes,Light,No,Working Professional,Mild,Yes,125,Period Underwear
+Teen,Yes,Medium,Yes,Student,Mild,No,141,Pads
+Senior,No,Light,Yes,Athlete,Moderate,Yes,402,Period Underwear
+Adult,No,Medium,No,Athlete,Moderate,Yes,223,Pads
+Adult,No,Medium,No,Working Professional,Mild,Yes,787,Cloth Pads
+Senior,No,Light,Yes,Athlete,Moderate,Yes,175,Tampons
+Middle-Aged,No,Light,Yes,Working Professional,Mild,Yes,355,Cloth Pads
+Adult,Yes,Light,No,Working Professional,Mild,No,433,Menstrual Cup
+Teen,No,Medium,Yes,Working Professional,Mild,No,550,Menstrual Cup
+Teen,No,Medium,No,Working Professional,Mild,Yes,729,Menstrual Cup
+Young Adult,No,Heavy,Yes,Student,Mild,Yes,259,Cloth Pads
+Adult,Yes,Light,Yes,Working Professional,Mild,Yes,300,Period Underwear
+Middle-Aged,No,Medium,Yes,Homemaker,Mild,Yes,819,Tampons
+Senior,No,Medium,Yes,Athlete,Moderate,No,289,Menstrual Cup
+Senior,Yes,Light,No,Homemaker,Mild,Yes,511,Menstrual Cup
+Middle-Aged,No,Heavy,Yes,Student,Mild,No,104,Menstrual Cup
+Young Adult,Yes,Light,Yes,Homemaker,Moderate,Yes,712,Tampons
+Senior,Yes,Heavy,No,Athlete,Moderate,No,600,Menstrual Cup
+Adult,Yes,Medium,Yes,Homemaker,Moderate,Yes,382,Tampons
+Young Adult,Yes,Heavy,Yes,Student,Mild,Yes,211,Menstrual Cup
+Adult,Yes,Medium,No,Working Professional,Severe,No,647,Cloth Pads
+Teen,No,Light,Yes,Homemaker,Severe,Yes,340,Cloth Pads
+Young Adult,Yes,Light,No,Student,Moderate,Yes,738,Tampons
+Senior,Yes,Light,No,Student,Severe,Yes,118,Cloth Pads
+Young Adult,No,Heavy,No,Athlete,Moderate,No,277,Tampons
+Young Adult,Yes,Medium,No,Athlete,Mild,Yes,917,Cloth Pads
+Young Adult,No,Light,Yes,Homemaker,Severe,Yes,891,Cloth Pads
+Young Adult,No,Light,No,Working Professional,Mild,No,871,Tampons
+Adult,No,Medium,Yes,Student,Severe,No,976,Period Underwear
+Teen,Yes,Light,Yes,Homemaker,Mild,No,440,Cloth Pads
+Middle-Aged,Yes,Medium,Yes,Student,Severe,Yes,797,Menstrual Cup
+Young Adult,Yes,Medium,Yes,Student,Mild,Yes,545,Period Underwear
+Senior,No,Medium,Yes,Working Professional,Mild,Yes,103,Tampons
+Young Adult,Yes,Medium,Yes,Working Professional,Severe,No,973,Period Underwear
+Senior,Yes,Medium,Yes,Homemaker,Mild,Yes,598,Pads
+Adult,Yes,Heavy,Yes,Working Professional,Mild,Yes,680,Pads
+Senior,No,Light,Yes,Working Professional,Mild,No,300,Cloth Pads
+Middle-Aged,No,Heavy,Yes,Homemaker,Severe,No,274,Cloth Pads
+Teen,Yes,Light,No,Working Professional,Severe,No,492,Menstrual Cup
+Senior,Yes,Heavy,No,Athlete,Mild,No,158,Period Underwear
+Senior,Yes,Medium,No,Student,Mild,No,327,Pads
+Teen,Yes,Light,Yes,Student,Severe,Yes,418,Cloth Pads
+Middle-Aged,No,Light,No,Student,Severe,No,958,Period Underwear
+Young Adult,No,Heavy,No,Student,Mild,Yes,724,Cloth Pads
+Senior,No,Heavy,No,Homemaker,Mild,Yes,667,Cloth Pads
+Teen,No,Light,Yes,Student,Mild,No,597,Pads
+Adult,Yes,Heavy,Yes,Student,Moderate,No,359,Pads
+Teen,Yes,Heavy,Yes,Student,Severe,No,502,Cloth Pads
+Adult,Yes,Heavy,Yes,Student,Moderate,Yes,902,Tampons
+Middle-Aged,No,Medium,No,Athlete,Severe,No,149,Cloth Pads
+Young Adult,Yes,Medium,No,Student,Severe,No,814,Cloth Pads
+Teen,No,Heavy,No,Athlete,Severe,No,927,Menstrual Cup
+Senior,No,Heavy,No,Homemaker,Severe,No,402,Menstrual Cup
+Middle-Aged,Yes,Medium,Yes,Working Professional,Severe,No,590,Menstrual Cup
+Teen,Yes,Medium,Yes,Student,Severe,Yes,861,Tampons
+Senior,Yes,Light,Yes,Working Professional,Severe,Yes,710,Tampons
+Teen,No,Light,No,Working Professional,Moderate,Yes,416,Cloth Pads
+Adult,Yes,Medium,Yes,Homemaker,Mild,No,950,Menstrual Cup
+Teen,No,Heavy,Yes,Working Professional,Mild,No,368,Tampons
+Teen,Yes,Heavy,No,Athlete,Moderate,No,988,Pads
+Teen,No,Heavy,No,Working Professional,Moderate,Yes,839,Cloth Pads
