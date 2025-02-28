@@ -31,5 +31,5 @@
 Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shristikumari.streamlit.app/)
 
 # ✅ Result
-Personalized Product Recommendation Accuracy : 84%
+Personalized Product Recommendation Accuracy : 84% <br>
 Exercise Recommendation Silhouette Score : 0.619
