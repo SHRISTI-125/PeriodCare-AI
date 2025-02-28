@@ -16,12 +16,11 @@
 </ul>
 
 # 🛠 Tech Stack
+
 <ul>
   <li>Python</li>
-  <li>KNN</li>
-  <li>SVM</li>
-  <li>K-Means</li>
-  <li>Hierarchical Clustering</li>
+  <li>Pandas</li>
+  <li>Scikit-learn</li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
   <li>Streamlit</li>
