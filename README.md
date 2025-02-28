@@ -26,3 +26,10 @@
   <li>Seaborn</li>
   <li>Streamlit</li>
 </ul>
+
+# 🖥️ Demo
+Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shristikumari.streamlit.app/)
+
+# ✅ Result
+Personalized Product Recommendation Accuracy : 84%
+Exercise Recommendation Silhouette Score : 0.619
