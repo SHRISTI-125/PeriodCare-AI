@@ -89,6 +89,7 @@ if st.session_state.page == "Home":
                 border: 1px solid #ddd;
                 margin-bottom: 20px;
                 font-size: 15px;
+                color:#ffffff;
             }
         </style>
     """, unsafe_allow_html=True)
