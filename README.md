@@ -1,7 +1,7 @@
 # PeriodCare AI 🤖
 <h4>
   PeriodCare AI is an AI-driven menstrual hygiene product recommendation system that provides personalized menstrual health suggestions based on user input. 
-  By using machine learning algorithms (KNN, SVM, K-Means, hierarchical clustering), it ensures tailored recommendations for hygiene products and exercises.
+  By using machine learning algorithms (KNN, SVM, K-Means, Hierarchical Clustering), it ensures tailored recommendations for hygiene products and exercises.
   This project aims to enhance menstrual health awareness, improve user experience, and promote eco-friendly choices.
 </h4>
 
