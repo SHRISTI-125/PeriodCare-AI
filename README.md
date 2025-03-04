@@ -20,6 +20,7 @@
 <ul>
   <li>Python</li>
   <li>Pandas</li>
+  <li>NumPy</li>
   <li>Scikit-learn</li>
   <li>Matplotlib</li>
   <li>Seaborn</li>
