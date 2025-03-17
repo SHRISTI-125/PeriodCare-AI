@@ -14,6 +14,7 @@ Personalized Care for Every Flow.
     <li>Sustainability & Eco-friendly Solutions</li>
   </ul>
 </h4>
+<br>
 
 # 🚀 Key Features
 <ul>
@@ -25,6 +26,7 @@ Personalized Care for Every Flow.
 📌 Data-Driven Insights for Better Health<br>
 📌 Educational Resources<br>
 </ul>
+<br>
 
 # 🏗️ Tech Stack
 
@@ -37,19 +39,23 @@ Personalized Care for Every Flow.
   <li>Seaborn</li>
   <li>Streamlit</li>
 </ul>
+<br>
 
 # 📊 Machine Learning Approaches
 - Personalized Health Recommendations: **KNN + SVM** for optimized suggestions.
 - Exercise Recommendations: **K-Means Clustering** to categorize workouts.
 - User Segmentation: **K-Means & Hierarchical Clustering** for better targeting.
+<br>
 
 # 🌍 Social Impact
 💡 **Empowers Women** through AI-driven insights.  
 🌱 **Promotes Eco-friendly Menstrual Products** for sustainability.  
 📚 **Educates & Spreads Awareness** on menstrual health. 
+<br>
 
 # 📽️ Demo
 Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shristikumari.streamlit.app/)
+<br>
 
 
 # 📷 Screenshorts
