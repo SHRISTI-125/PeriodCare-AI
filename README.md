@@ -17,14 +17,13 @@ Personalized Care for Every Flow.
 
 # 🚀 Key Features
 <ul>
-  <li>
-    Personalized Hygiene Recommendations
-  </li>
-  <li>Exercise Recommendations</li>
-  <li>User-Friendly Interface</li>
-  <li>Menstrual Health Awareness Page</li>
-  <li>Data-Driven Insights for Better Health</li>
-  <li>Educational Resources</li>
+📌 Personalized Hygiene Recommendations
+ <br>
+📌 Exercise Recommendations<br>
+📌 User-Friendly Interface<br>
+📌 Menstrual Health Awareness Page<br>
+📌 Data-Driven Insights for Better Health<br>
+📌 Educational Resources<br>
 </ul>
 
 # 🏗️ Tech Stack
