@@ -52,10 +52,10 @@ Personalized Care for Every Flow.
 Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shristikumari.streamlit.app/)
 
 
-# 📷 Screenshort
+# 📷 Screenshorts
 <p align="center">
   <img src="https://github.com/user-attachments/assets/217866ce-a4da-4624-b696-549fa24aca28" alt="PeriodCare AI" height="300" width="500">
-  <img src="https://github.com/user-attachments/assets/0a94c9d1-3432-4216-b419-c25708096603" alt="Second Image" height="300" width="490">
+  <img src="https://github.com/user-attachments/assets/0a94c9d1-3432-4216-b419-c25708096603" alt="" height="300" width="400">
 </p>
 <br>
 
