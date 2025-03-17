@@ -56,10 +56,11 @@ Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shr
 # 📷 Screenshort
 <p align="center">
   <img src="https://github.com/user-attachments/assets/217866ce-a4da-4624-b696-549fa24aca28" alt="PeriodCare AI" height="300" width="300">
-  <img src="https://github.com/user-attachments/assets/YOUR-SECOND-IMAGE" alt="Second Image" height="300" width="300">
-  <img src="https://github.com/user-attachments/assets/YOUR-THIRD-IMAGE" alt="Third Image" height="300" width="300">
+  <img src="https://github.com/user-attachments/assets/(https://github.com/user-attachments/assets/0a94c9d1-3432-4216-b419-c25708096603)" alt="Second Image" height="300" width="300">
+  <img src="https://github.com/user-attachments/assets/THIRD-IMAGE" alt="Third Image" height="300" width="300">
 </p>
 <br>
+![Screenshot 2025-03-17 124000]()
 
 
 
