@@ -51,10 +51,23 @@ Personalized Care for Every Flow.
 # 📽️ Demo
 Click here to see live project 👉 [PeriodCare AI](https://periodcare-ai-by-shristikumari.streamlit.app/)
 
+
+<br>
+# 📷 Screenshort
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/217866ce-a4da-4624-b696-549fa24aca28" alt="PeriodCare AI" height="300" width="300">
+  <img src="https://github.com/user-attachments/assets/YOUR-SECOND-IMAGE" alt="Second Image" height="300" width="300">
+  <img src="https://github.com/user-attachments/assets/YOUR-THIRD-IMAGE" alt="Third Image" height="300" width="300">
+</p>
+<br>
+
+
+
 # ✅ Result
 Personalized Product Recommendation Accuracy : 84% <br>
 Exercise Recommendation Silhouette Score : 0.619
-
 <br>
 <hr>
+
 Author : Shristi Kumari
+
